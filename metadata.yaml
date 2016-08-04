@@ -1,0 +1,31 @@
+_repo: The-Young-Carthaginian--A-Story-of-The-Times-of-Hannibal_5128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carthage (Extinct city) -- History -- Fiction'
+- !lcsh 'Rome -- History -- Republic, 265-30 B.C. -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Hannibal, 247-182 B.C. -- Fiction'
+- !lcsh 'Punic War, 2nd, 218-201 B.C. -- Fiction'
+- GITenberg
+title: 'The Young Carthaginian: A Story of The Times of Hannibal'
+url: http://www.gutenberg.org/ebooks/5128
